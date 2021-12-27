@@ -7,7 +7,7 @@ Thanks to Jake@Linux for his amazing video on the subject.
 
 First, you need to clone the void-packages repository from the official void-linux github:
 
-`git clone https://github.com/void-linux/void-packages`
+`git clone https://github.com/void-linux/void-packages ~/void-packages`
 
 In that directory, in case you need propietary packages, you need to execute this command:
 
